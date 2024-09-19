@@ -1,4 +1,4 @@
-# NGLR-JM - A* Algorithm Implementation
+# A* Algorithm Implementation
 
 ## Description
 This is a small library that just simply uses the A* algorithm to find the path between 2 points in either a 2D space or a 3D space. It's completely free to use and it this was made as a small project to possibly use in later times but also for some practice.
